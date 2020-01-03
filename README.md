@@ -5,6 +5,7 @@
 This application features the ability to simulate the musical instrument Theremin.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71704240-61f4d100-2d96-11ea-8731-9fa59b28dfcc.png)
 
 ## Application Compiling
 
